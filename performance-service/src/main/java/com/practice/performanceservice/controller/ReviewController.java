@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.practice.performanceservice.model.ReviewRequest;
-import com.practice.performanceservice.model.ReviewResponse;
+import com.practice.performanceservice.dto.ReviewRequest;
+import com.practice.performanceservice.dto.ReviewResponse;
 import com.practice.performanceservice.service.PerformanceService;
 
 @RestController

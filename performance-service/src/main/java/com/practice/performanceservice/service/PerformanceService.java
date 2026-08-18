@@ -4,9 +4,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.practice.performanceservice.client.RecruitmentClient;
-import com.practice.performanceservice.model.CandidateResponse;
-import com.practice.performanceservice.model.ReviewRequest;
-import com.practice.performanceservice.model.ReviewResponse;
+import com.practice.performanceservice.dto.CandidateResponse;
+import com.practice.performanceservice.dto.ReviewRequest;
+import com.practice.performanceservice.dto.ReviewResponse;
 
 @Service
 public class PerformanceService {
