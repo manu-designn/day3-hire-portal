@@ -1,4 +1,4 @@
-package com.practice.recruitmentservice.model;
+package com.practice.recruitmentservice.domain;
 
 public class Candidate {
 
