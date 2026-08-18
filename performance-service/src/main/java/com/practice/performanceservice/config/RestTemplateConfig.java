@@ -1,4 +1,4 @@
-package com.practice.performanceservice.client;
+package com.practice.performanceservice.config;
 
 import java.time.Duration;
 
